@@ -18,9 +18,9 @@
     "require": {},
     "extra": {
         "laravel": {
-            "providers": {
+            "providers": [
                 "Darpan\\Lol\\LolServiceProvider"
-            }
+            ]
         }
     }
 }
